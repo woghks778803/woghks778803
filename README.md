@@ -2,9 +2,9 @@
 
 # ▎🛠 Info 🛠
 - Name : Jeong Jae Hwan
-- Portfolio : <a href="http://woghks7788.cafe24.com/"><img src="https://img.shields.io/badge/-Portfolio-blue"/></a>&nbsp
-- Blog : <a href="https://www.jpro.blog/"><img src="https://img.shields.io/badge/Blog-21759B?style=flat&logo=WordPress&logoColor=white"/></a>&nbsp
-- Mail : <a href="mailto:viliketh1s98@naver.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white"/></a>&nbsp
+- Portfolio : <a href="http://woghks7788.cafe24.com/"><img src="https://img.shields.io/badge/-Portfolio-blue"/></a>
+- Blog : <a href="https://www.jpro.blog/"><img src="https://img.shields.io/badge/Blog-21759B?style=flat&logo=WordPress&logoColor=white"/></a>
+- Mail : <a href="mailto:viliketh1s98@naver.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white"/></a>
 - Messenger : <a href="https://www.jpro.blog/?p=220"><img src="https://img.shields.io/badge/Kakao-FFCD00?style=flat&logo=KakaoTalk&logoColor=white"/></a>
 
 
@@ -22,13 +22,11 @@
 <span><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=Kubernetes&logoColor=white"/></span>
-<br/>
 - Cloud Computing : <span><img src="https://img.shields.io/badge/AWS-232f3e?style=flat&logo=amazon-aws&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Google Cloud-4285F4?style=flat&logo=Google Cloud&logoColor=white"/></span>
-<br/>
 - Version Control : <span><img src="https://img.shields.io/badge/Git-f05032?style=flat&logo=git&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></span>
-<span><img src="https://img.shields.io/badge/Bitbucket-0052cc?style=flat&logo=bitbucket&logoColor=white"/></span><br/>
+<span><img src="https://img.shields.io/badge/Bitbucket-0052cc?style=flat&logo=bitbucket&logoColor=white"/></span>
 - Communication : <span><img src="https://img.shields.io/badge/Jira-0052cc?style=flat&logo=jira&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Confluence-0052cc?style=flat&logo=confluence&logoColor=white"/></span>
 
