@@ -1,11 +1,13 @@
 # Welcome To My GitHub!! 😊
 
+
 # ▎ Info 📋 
 - Name : Jeong Jae Hwan
 - Portfolio : <a href="http://woghks7788.cafe24.com/"><img src="https://img.shields.io/badge/-Portfolio-blue"/></a>
 - Blog : <a href="https://www.jpro.blog/"><img src="https://img.shields.io/badge/Blog-21759B?style=flat&logo=WordPress&logoColor=white"/></a>
 - Mail : <a href="mailto:viliketh1s98@naver.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white"/></a>
 - Messenger : <a href="https://www.jpro.blog/?p=220"><img src="https://img.shields.io/badge/Kakao-FFCD00?style=flat&logo=KakaoTalk&logoColor=white"/></a>
+
 
 
 # ▎ Tech Stack 🛠
@@ -29,5 +31,7 @@
 <span><img src="https://img.shields.io/badge/Bitbucket-0052cc?style=flat&logo=bitbucket&logoColor=white"/></span>
 - Communication : <span><img src="https://img.shields.io/badge/Jira-0052cc?style=flat&logo=jira&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Confluence-0052cc?style=flat&logo=confluence&logoColor=white"/></span>
+
+
 
 ![Anurag's GitHub stats](https://github-readme-stats-sand-six-91.vercel.app/api?username=woghks778803&show_icons=true&count_private=true&line_height=24&theme=dracula&hide=stars)
