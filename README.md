@@ -1,6 +1,6 @@
 # Welcome To My GitHub!! 😊
 
-# ▎🛠 Info 🛠
+# ▎ Info 📋 
 - Name : Jeong Jae Hwan
 - Portfolio : <a href="http://woghks7788.cafe24.com/"><img src="https://img.shields.io/badge/-Portfolio-blue"/></a>
 - Blog : <a href="https://www.jpro.blog/"><img src="https://img.shields.io/badge/Blog-21759B?style=flat&logo=WordPress&logoColor=white"/></a>
@@ -8,7 +8,7 @@
 - Messenger : <a href="https://www.jpro.blog/?p=220"><img src="https://img.shields.io/badge/Kakao-FFCD00?style=flat&logo=KakaoTalk&logoColor=white"/></a>
 
 
-# ▎🛠 Tech Stack 🛠
+# ▎ Tech Stack 🛠
 - Front-end : <span><img src="https://img.shields.io/badge/HTML-e34f26?style=flat&logo=html5&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/CSS-1572b6?style=flat&logo=css3&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/JavaScript-dbab09?style=flat&logo=javascript&logoColor=white"/></span>
