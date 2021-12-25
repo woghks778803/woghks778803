@@ -19,7 +19,7 @@
 - Back-end : <span><img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=PHP&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Symfony-000000?style=flat&logo=Symfony&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/></span>
-<span><img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=FastAPI&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=Flask&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"/></span>
@@ -32,6 +32,7 @@
 - Communication : <span><img src="https://img.shields.io/badge/Jira-0052cc?style=flat&logo=jira&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Confluence-0052cc?style=flat&logo=confluence&logoColor=white"/></span><br>
 
-
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=woghks7788)](https://solved.ac/woghks7788)
 
 ![Anurag's GitHub stats](https://github-readme-stats-sand-six-91.vercel.app/api?username=woghks778803&show_icons=true&count_private=true&line_height=24&theme=dracula&hide=stars)
