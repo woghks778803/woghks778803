@@ -23,7 +23,6 @@
 <span><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"/></span>
-<span><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=Kubernetes&logoColor=white"/></span>
 - Cloud Computing : <span><img src="https://img.shields.io/badge/AWS-232f3e?style=flat&logo=amazon-aws&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Google Cloud-4285F4?style=flat&logo=Google Cloud&logoColor=white"/></span>
 - Version Control : <span><img src="https://img.shields.io/badge/Git-f05032?style=flat&logo=git&logoColor=white"/></span>
@@ -33,6 +32,6 @@
 <span><img src="https://img.shields.io/badge/Confluence-0052cc?style=flat&logo=confluence&logoColor=white"/></span><br>
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=woghks7788)](https://solved.ac/woghks7788)
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=woghks7788)](https://solved.ac/woghks7788)
 
 ![Anurag's GitHub stats](https://github-readme-stats-sand-six-91.vercel.app/api?username=woghks778803&show_icons=true&count_private=true&line_height=24&theme=dracula&hide=stars)
